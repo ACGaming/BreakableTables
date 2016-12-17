@@ -1,0 +1,9 @@
+tile.breakabletables.workbench_basic.intact.name=Gebrechliche Werkbank
+tile.breakabletables.workbench_basic.slightlyDamaged.name=Gebrechliche Werkbank (Leicht Beschädigt)
+tile.breakabletables.workbench_basic.veryDamaged.name=Gebrechliche Werkbank (Stark Beschädigt)
+tile.breakabletables.workbench_good.intact.name=Stabile Werkbank
+tile.breakabletables.workbench_good.slightlyDamaged.name=Stabile Werkbank (Leicht Beschädigt)
+tile.breakabletables.workbench_good.veryDamaged.name=Stabile Werkbank (Stark Beschädigt)
+tile.breakabletables.workbench_great.intact.name=Verstärkte Werkbank
+tile.breakabletables.workbench_great.slightlyDamaged.name=Verstärkte Werkbank (Leicht Beschädigt)
+tile.breakabletables.workbench_great.veryDamaged.name=Verstärkte Werkbank (Stark Beschädigt)
